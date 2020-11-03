@@ -14,6 +14,6 @@ We are a team of 3 members This chatbot is designed for our college website. We 
 9. Regarding all the latest notifications from the college.
 10. Details about the research projects handled currently.
 
-repl.it link: https://repl.it/@l_vasavisai/vitcollegebot#index.html youtube link: https://youtu.be/2TCqkREER0I
+repl.it link: https://repl.it/@l_vasavisai/vitcollegebotfrontend#index.html youtube link: https://youtu.be/2TCqkREER0I
 # Team Members
 L.V.S.Prasanna Y.Shyamala Madhuri V. D.V.S.Sarada Devi
